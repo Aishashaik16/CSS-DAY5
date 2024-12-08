@@ -1,0 +1,65 @@
+header {
+    background-color: cadetblue;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    padding: 5px;
+}
+nav {
+    display: inline-block;
+    margin-left: 150px;
+    font-size: larger;
+    color: black;
+    vertical-align: middle;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+p {
+    text-align: justify;
+    padding: 10px;
+}
+
+#item,
+#item-1 {
+    padding: 18px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    font-weight: bold;
+    background-color: darkseagreen;
+    position: sticky;
+    top: 0%;
+    width: 100%
+}
+
+.item-2 {
+    padding: 10px;
+    display: inline-block;
+}
+
+.a1
+{
+    font-size: 2rem;
+    color: darkgreen;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+.a2{
+    font-size: 2rem;
+    color: darkgreen;
+    position: fixed;
+    bottom: 50px;
+    right: 0px;
+}
